@@ -1,6 +1,7 @@
 # Hi, I'm Shrey 👋
 
 **Full Stack Developer** · React, TypeScript & .NET/Java backends · building ERP/SaaS products
+
 📍 Noida, India · currently at **Lockated** (Pune)
 
 I build fast, maintainable web apps end to end: React front ends, ASP.NET / Spring Boot APIs, SQL and NoSQL data layers, deployed on AWS. I also have an MCA in Data Science, so I like adding a bit of ML where it actually helps.
@@ -68,19 +69,5 @@ Hindi (native) · English (C1) · German (A1, working toward B1)
 ---
 
 ⭐ Open to full stack / React opportunities. Feel free to reach out via the links on my profile.
-## Hi there 👋
 
-<!--
-**shr-98/shr-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
