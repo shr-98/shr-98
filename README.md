@@ -1,10 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  shr-98 · profile README                                     ║
-  ║  Search for "TODO" before committing — see SETUP.md.         ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
 <img src="./assets/banner.svg" alt="Shrey — Full Stack Developer" width="100%" />
@@ -17,11 +10,12 @@
 
 <br/><br/>
 
-<!-- ─────────── CONTACT RAIL · TODO: replace the 4 placeholder URLs ─────────── -->
-<a href="https://www.linkedin.com/in/TODO-your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
+<!-- ───── CONTACT ─────
+     REPLACE the LinkedIn URL below with your real profile, then delete this comment.
+     ──────────────────── -->
+<a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
+&nbsp;
 <a href="mailto:sharmashrey0004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email"/></a>
-<a href="https://TODO-your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-Live_site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1120" alt="Portfolio"/></a>
-<a href="https://TODO-link-to-your-resume.pdf"><img src="https://img.shields.io/badge/Résumé-Download-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0B1120" alt="Resume"/></a>
 
 <br/>
 
@@ -33,10 +27,6 @@
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     THE 10-SECOND READ — everything a hiring manager needs up top
-     ═══════════════════════════════════════════════════════════════ -->
 
 ## ⚡ &nbsp;The 10-second version
 
@@ -78,16 +68,12 @@ Hindi (native) · English (C1) · German (A1 → B1)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     TECH ARSENAL
-     ═══════════════════════════════════════════════════════════════ -->
-
 ## 🧰 &nbsp;Tech arsenal
 
 <table>
 <tr>
 <td align="center" width="20%"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css&theme=dark" alt="Frontend stack"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css&theme=dark" alt="Frontend stack"/></td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
@@ -100,7 +86,6 @@ Hindi (native) · English (C1) · German (A1 → B1)
 <tr>
 <td align="center"><b>Cloud &amp; DevOps</b></td>
 <td><img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman&theme=dark" alt="Cloud and tooling"/></td>
-<!-- TODO: add anything else you genuinely use — docker, githubactions, linux, redux, tailwind, nextjs, nodejs, jenkins, jira, figma … full icon list at https://skillicons.dev -->
 </tr>
 <tr>
 <td align="center"><b>ML / Data Science</b></td>
@@ -116,135 +101,135 @@ Hindi (native) · English (C1) · German (A1 → B1)
 | Level | What it means | Tools |
 |:--|:--|:--|
 | **Daily driver** | I ship production code in this every week | React 18, TypeScript, JavaScript, C# / ASP.NET, MySQL, MSSQL, Git |
-| **Comfortable** | Have built and shipped real features with it | Vite, Java / Spring Boot, Python, MongoDB, AWS EC2 & S3, REST API design |
+| **Comfortable** | Have built and shipped real features with it | Vite, Tailwind, Java / Spring Boot, Python, MongoDB, AWS EC2 &amp; S3, REST API design |
 | **Working knowledge** | Used it on projects, would ramp fast | Scikit-Learn, TensorFlow, PyTorch, OpenCV, HTML5 / CSS3 |
-| **Currently levelling up** | <!-- TODO: replace with what you're actually learning --> System design, testing, German 🇩🇪 |
+| **Currently levelling up** | Where my reading time goes | System design, testing, German 🇩🇪 |
 
 </details>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════
-     FEATURED WORK
-     ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 &nbsp;Featured work
 
-<div align="center">
+<table>
+<tr>
 
-<a href="https://github.com/shr-98/meetlink-mvp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shr-98&repo=meetlink-mvp&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&bg_color=0B1120&border_color=1E293B&border_radius=12" alt="meetlink-mvp"/>
-</a>
-<a href="https://github.com/shr-98/bookmyshow-clone">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shr-98&repo=bookmyshow-clone&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&bg_color=0B1120&border_color=1E293B&border_radius=12" alt="bookmyshow-clone"/>
-</a>
-<a href="https://github.com/shr-98/propflow-ui">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shr-98&repo=propflow-ui&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&bg_color=0B1120&border_color=1E293B&border_radius=12" alt="propflow-ui"/>
-</a>
-<a href="https://github.com/shr-98/SmartFaceID">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shr-98&repo=SmartFaceID&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&bg_color=0B1120&border_color=1E293B&border_radius=12" alt="SmartFaceID"/>
-</a>
+<td width="50%" valign="top">
 
-</div>
+### 🗂️ &nbsp;Jiraly
 
-<br/>
+**Jira-style tracker with one-click meetings**
+
+Issue boards that generate **Jitsi / Meet / Zoom / Teams** links straight from a ticket and email the
+invites out — so "we should talk about this" becomes a call without leaving the tracker.
+
+<sub>Per-provider meeting-link service layer · templated SMTP invites</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0B1120" alt="Python"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0B1120" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0B1120" alt="Node.js"/>
+
+[**→ &nbsp;Browse the code**](https://github.com/shr-98/meetlink-mvp)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎟️ &nbsp;BookMyShow Clone
+
+**Seat-selection booking flow**
+
+A ticket-booking UI built to get the fiddly parts right: seat maps, unavailable-seat state,
+show/time selection and a summary that stays in sync. The seat grid is real state-management
+practice, not a to-do list.
+
+<sub>Component-driven UI · deployed on Netlify</sub>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0B1120" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0B1120" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0B1120" alt="Tailwind"/>
+
+[**→ &nbsp;Browse the code**](https://github.com/shr-98/bookmyshow-clone)
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏢 &nbsp;PropFlow UI
+
+**Property-management front end**
+
+A typed React front end for property management — the dense, table-and-form-heavy kind of interface
+that real ERP users live in all day.
+
+<sub>TypeScript-first components · reusable table / form primitives</sub>
+
+<img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0B1120" alt="React 18"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0B1120" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=0B1120" alt="Vite"/>
+
+[**→ &nbsp;Browse the code**](https://github.com/shr-98/propflow-ui)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 &nbsp;SmartFaceID
+
+**Face detection &amp; recognition**
+
+The classic CV pipeline — detect → encode → match — across images and live video, wrapped in a
+desktop UI so it is demoable by someone who never wants to touch a terminal.
+
+<sub>Built on the ML foundation from my MCA in Data Science</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0B1120" alt="Python"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0B1120" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Tkinter-FFD343?style=flat-square&logo=python&logoColor=black&labelColor=0B1120" alt="Tkinter"/>
+
+[**→ &nbsp;Browse the code**](https://github.com/shr-98/SmartFaceID)
+
+</td>
+
+</tr>
+</table>
 
 <details>
-<summary><b>🗂️ &nbsp;Jiraly — project &amp; issue tracker with one-click meetings</b> &nbsp;<code>Python</code> <code>JavaScript</code></summary>
+<summary><b>🧪 &nbsp;Also on the shelf</b> <sub>(click to expand)</sub></summary>
 
 <br/>
 
-A Jira-style tracker that closes the gap between "we should talk about this ticket" and actually
-being in a call: it generates **Jitsi / Google Meet / Zoom / Teams** links straight from an issue and
-emails the invites out.
-
-- **Problem** — issue trackers make you leave the tool to schedule a conversation about the issue.
-- **Approach** — ticket boards + a meeting-link service layer per provider, with templated email invites.
-- **Stack** — Python backend, JavaScript front end, SMTP invites.
-- **What I'd do next** <!-- TODO: make this specific and true --> — calendar sync, recurring standups, role-based access.
-
-**→ [Browse the code](https://github.com/shr-98/meetlink-mvp)**
-
-</details>
-
-<details>
-<summary><b>🎟️ &nbsp;BookMyShow Clone — seat-selection booking flow</b> &nbsp;<code>React</code> <code>JavaScript</code></summary>
-
-<br/>
-
-A ticket-booking interface modelled on BookMyShow, built to get the fiddly parts right:
-seat maps, unavailable-seat state, show/time selection and a booking summary that stays in sync.
-
-- **Why it's interesting** — the seat grid is genuine state-management practice, not a to-do list.
-- **Stack** — React, JavaScript, component-driven UI.
-- **Demo** — GIF walkthrough in the repo README.
-
-**→ [Browse the code](https://github.com/shr-98/bookmyshow-clone)**
-
-</details>
-
-<details>
-<summary><b>🏢 &nbsp;PropFlow UI — property-management front end</b> &nbsp;<code>React</code> <code>TypeScript</code></summary>
-
-<br/>
-
-A typed React front end for property management — the kind of dense, table-and-form-heavy
-interface that real ERP users live in all day.
-
-- **Focus** — TypeScript-first components, predictable data flow, reusable table/form primitives.
-- **Stack** — React 18, TypeScript, Vite.
-
-**→ [Browse the code](https://github.com/shr-98/propflow-ui)**
-
-</details>
-
-<details>
-<summary><b>🧠 &nbsp;SmartFaceID — face detection &amp; recognition</b> &nbsp;<code>Python</code> <code>OpenCV</code></summary>
-
-<br/>
-
-Face detection and recognition across images and live video, wrapped in a desktop UI so it's
-usable by someone who doesn't want to touch a terminal.
-
-- **Focus** — the classic CV pipeline (detect → encode → match) plus a UI that makes it demoable.
-- **Stack** — Python, OpenCV, Tkinter.
-
-**→ [Browse the code](https://github.com/shr-98/SmartFaceID)**
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[lockated-website](https://github.com/shr-98/lockated-website)** | Marketing site with GSAP animation and Lenis smooth scrolling | `React` `React Router` `GSAP` `Vite` |
+| **[face-id-react](https://github.com/shr-98/-face-id-react)** | Web front end for the Face ID flow — the browser counterpart to SmartFaceID | `React` `TypeScript` `Vite` `Tailwind` |
 
 </details>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS
-     ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub, by the numbers
+## 📊 &nbsp;GitHub activity
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=shr-98&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=22D3EE&text_color=94A3B8&icon_color=A78BFA&bg_color=0B1120&border_color=1E293B&border_radius=12" alt="GitHub stats"/>
-<img width="47%" src="https://streak-stats.demolab.com?user=shr-98&background=0B1120&border=1E293B&stroke=1E293B&ring=22D3EE&fire=EC4899&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&border_radius=12" alt="Contribution streak"/>
+<img width="58%" src="https://streak-stats.demolab.com?user=shr-98&background=0B1120&border=1E293B&stroke=1E293B&ring=22D3EE&fire=EC4899&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&border_radius=12" alt="Contribution streak"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shr-98&layout=compact&langs_count=10&hide=Jupyter%20Notebook&title_color=22D3EE&text_color=94A3B8&bg_color=0B1120&border_color=1E293B&border_radius=12" alt="Top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shr-98/shr-98/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shr-98/shr-98/output/github-snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/shr-98/shr-98/output/github-snake.svg" width="100%" />
+</picture>
 
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shr-98&bg_color=0B1120&color=E2E8F0&line=22D3EE&point=A78BFA&area_color=22D3EE&area=true&hide_border=true&radius=12" alt="Contribution activity graph"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=shr-98&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+<sub>🐍 &nbsp;A snake eating a year of commits · regenerated daily by GitHub Actions</sub>
 
 </div>
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════
-     EXPERIENCE
-     ═══════════════════════════════════════════════════════════════ -->
 
 ## 💼 &nbsp;Where I've worked
 
@@ -265,36 +250,16 @@ usable by someone who doesn't want to touch a terminal.
 </tr>
 </table>
 
-<details>
-<summary><b>📌 &nbsp;What I actually shipped</b> <sub>(click to expand)</sub></summary>
-
-<br/>
-
-> <!-- ══ TODO ══════════════════════════════════════════════════════════
->      This section is what separates a good profile from a great one.
->      Replace each line with something specific and measurable.
->      Format that works: [what I built] → [how] → [the number it moved].
->      e.g. "Rebuilt the ERP invoice module in React 18 + TS, cutting
->            page load from 4.2s to 1.1s for ~300 daily users."
->      ═══════════════════════════════════════════════════════════════ -->
-
-**Lockated** — React Developer (Full Stack)
-- Built and shipped `<feature>` used by `<N>` users, `<measurable outcome>`.
-- Cut `<metric>` from `<before>` to `<after>` by `<what you did>`.
-- Owned `<module / surface>` end to end — UI, API, schema.
-
-**JIVU Infosolutions** — Software Engineer
-- Delivered `<ERP module>` in ASP.NET + React for `<client / scale>`.
-- Reduced `<manual process>` to `<automated outcome>`, saving `<time>`.
-- Optimised `<query / endpoint>`, improving response time by `<%>`.
-
-</details>
+<!-- ═══ NEXT UPGRADE ═══════════════════════════════════════════════
+     The single highest-value thing you can add to this profile is a
+     short "what I shipped" list under each role. The format that
+     lands: [what I built] → [how] → [the number it moved]. e.g.
+       "Rebuilt the ERP invoice module in React 18 + TS, cutting page
+        load from 4.2s to 1.1s for ~300 daily users."
+     Two or three real lines per role beats a page of adjectives.
+     ═══════════════════════════════════════════════════════════════ -->
 
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════
-     EDUCATION + NOW
-     ═══════════════════════════════════════════════════════════════ -->
 
 <table>
 <tr>
@@ -315,7 +280,7 @@ Panjab University · `2017 – 2021`
 ## 🌱 &nbsp;Right now
 
 - 🔭 Building React front ends for property/ERP products at **Lockated**
-- 📚 Going deeper on **system design** and **TypeScript at scale** <!-- TODO: make this true -->
+- 📚 Going deeper on **system design** and **TypeScript at scale**
 - 🇩🇪 Pushing German from **A1 → B1**
 - 🤝 Open to **full stack / React** roles — remote or relocation
 - 💬 Ask me about React state, .NET APIs, or SQL that won't fall over
@@ -326,28 +291,6 @@ Panjab University · `2017 – 2021`
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     CONTRIBUTION SNAKE — generated by .github/workflows/snake.yml
-     ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### 🐍 &nbsp;Watch a snake eat my commits
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shr-98/shr-98/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shr-98/shr-98/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/shr-98/shr-98/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════
-     FOOTER
-     ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ### 📬 &nbsp;Let's build something
@@ -357,13 +300,9 @@ Fastest way to reach me is LinkedIn or email — I reply to everything.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/TODO-your-linkedin/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120"/></a>
+<a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
 &nbsp;
-<a href="mailto:sharmashrey0004@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120"/></a>
-&nbsp;
-<a href="https://TODO-your-portfolio.dev"><img src="https://img.shields.io/badge/-Portfolio-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1120"/></a>
-&nbsp;
-<a href="https://TODO-link-to-your-resume.pdf"><img src="https://img.shields.io/badge/-Résumé-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0B1120"/></a>
+<a href="mailto:sharmashrey0004@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email"/></a>
 
 <br/><br/>
 
