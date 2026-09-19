@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Shrey — Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B16"/>
+      <stop offset="55%" stop-color="#0D1424"/>
+      <stop offset="100%" stop-color="#111B2E"/>
+    </linearGradient>
+
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#EC4899" stop-opacity="0.40"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-0.45 0; 0.45 0; -0.45 0" dur="14s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E6F2FF"/>
+      <stop offset="45%" stop-color="#7DD3FC"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+      <animate attributeName="x1" values="-0.6;0.4;-0.6" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.4;1.4;0.4" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="60%" stop-color="#818CF8"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#93C5FD" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="card"><rect width="1000" height="280" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <rect width="1000" height="280" fill="url(#grid)"/>
+
+    <!-- ambient glows -->
+    <circle cx="150" cy="60" r="210" fill="url(#glowA)">
+      <animate attributeName="cy" values="60;110;60" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="880" cy="230" r="230" fill="url(#glowB)">
+      <animate attributeName="cx" values="880;820;880" dur="13s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- aurora sweep -->
+    <rect x="-200" y="0" width="1400" height="280" fill="url(#aurora)" opacity="0.30"/>
+
+    <!-- top hairline -->
+    <rect x="0" y="0" width="1000" height="2" fill="url(#rule)" opacity="0.9"/>
+
+    <!-- ── left: identity ── -->
+    <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+      <text x="64" y="72" font-size="12.5" letter-spacing="5" fill="#67E8F9" font-weight="600">
+        NOIDA, INDIA  ·  OPEN TO WORK
+      </text>
+
+      <text x="62" y="138" font-size="56" font-weight="800" letter-spacing="-1.2" fill="url(#nameGrad)">
+        Shrey Sharma
+      </text>
+
+      <text x="64" y="172" font-size="19" font-weight="700" fill="#E2E8F0" letter-spacing="0.2">
+        Full Stack Developer
+      </text>
+
+      <text x="64" y="199" font-size="14.5" font-weight="500" fill="#94A3B8" letter-spacing="0.3">
+        React · TypeScript · .NET · Spring Boot · AWS
+      </text>
+
+      <text x="64" y="226" font-size="13" fill="#64748B" letter-spacing="0.2">
+        Shipping ERP &amp; SaaS products end to end — UI, APIs, data, cloud.
+      </text>
+
+      <rect x="64" y="244" width="156" height="3" rx="1.5" fill="url(#rule)"/>
+    </g>
+
+    <!-- ── right: terminal card ── -->
+    <g transform="translate(662,52)">
+      <rect width="286" height="176" rx="14" fill="#0A1120" fill-opacity="0.92" stroke="#1E293B" stroke-width="1"/>
+      <rect width="286" height="34" rx="14" fill="#111C2F"/>
+      <rect y="20" width="286" height="14" fill="#111C2F"/>
+      <circle cx="22" cy="17" r="5" fill="#EF4444"/>
+      <circle cx="40" cy="17" r="5" fill="#F59E0B"/>
+      <circle cx="58" cy="17" r="5" fill="#10B981"/>
+      <text x="82" y="21" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#64748B">shrey — zsh</text>
+
+      <g font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12.5">
+        <text x="20" y="64" fill="#22D3EE">$ <tspan fill="#E2E8F0">whoami</tspan></text>
+        <text x="20" y="90" fill="#94A3B8">&#8250; full-stack-dev</text>
+        <text x="20" y="114" fill="#22D3EE">$ <tspan fill="#E2E8F0">stack --top</tspan></text>
+        <text x="20" y="138" fill="#A78BFA">react ts dotnet spring aws</text>
+        <text x="20" y="162" fill="#22D3EE">$ <tspan fill="#34D399">_</tspan>
+          <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+        </text>
+      </g>
+    </g>
+
+    <!-- floating particles -->
+    <g fill="#38BDF8">
+      <circle cx="470" cy="46" r="2.4" opacity="0.7">
+        <animate attributeName="cy" values="46;28;46" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="560" cy="238" r="2" opacity="0.5">
+        <animate attributeName="cy" values="238;218;238" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="618" cy="120" r="1.8" opacity="0.45">
+        <animate attributeName="cx" values="618;602;618" dur="8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <rect x="0.5" y="0.5" width="999" height="279" rx="22" fill="none" stroke="#1E293B" stroke-width="1"/>
+  </g>
+</svg>
