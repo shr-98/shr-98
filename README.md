@@ -10,10 +10,8 @@
 
 <br/><br/>
 
-<!-- ───── CONTACT ─────
-     REPLACE the LinkedIn URL below with your real profile, then delete this comment.
-     ──────────────────── -->
-<a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
+<!-- ───── CONTACT ───── -->
+<a href="https://www.linkedin.com/in/shrey-sharma-719667178/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:sharmashrey0004@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email"/></a>
 
@@ -300,7 +298,7 @@ Fastest way to reach me is LinkedIn or email — I reply to everything.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/shrey-sharma-719667178/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn"/></a>
 &nbsp;
 <a href="mailto:sharmashrey0004@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email"/></a>
 
